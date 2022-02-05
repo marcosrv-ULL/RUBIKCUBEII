@@ -9,9 +9,9 @@ Cubo de Rubik interactivo
 ## Aspectos que destacarías en la aplicación.
 
 ## Organización de tareas:
-### Grupales:
+### -Grupales:
 
-### Individuales:
+### -Individuales:
 
 
 ## Ejecución:
