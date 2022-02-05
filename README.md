@@ -4,7 +4,7 @@ cubo de Rubik para la clase de II
 ## Cuestiones importantes para el uso:
 
 ## Hitos de programación logrados relacionándolos con los contenidos que se han impartido:
-Intefaces multimodales: capturar la posición del GPS.
+**Intefaces multimodales:** capturar la posición del GPS.
 
 ## Aspectos que destacarías en la aplicación.
 
