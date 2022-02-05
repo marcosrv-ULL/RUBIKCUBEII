@@ -13,7 +13,6 @@ Cubo de Rubik interactivo
 
 ### Individuales:
 
-Acta de los acuerdos del grupo respecto al trabajo en equipo: reparto de tareas, tareas desarrolladas individualmente, tareas desarrolladas en grupo, etc.
 
 ## Ejecución:
 https://user-images.githubusercontent.com/72877378/152649595-94caef77-82a5-4dd3-bbda-ea6c1bfcef40.mp4
