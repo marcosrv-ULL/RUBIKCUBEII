@@ -1,5 +1,5 @@
 # RUBIKCUBEII
-cubo de Rubik para la clase de II
+Cubo de Rubik interactivo
 
 ## Cuestiones importantes para el uso:
 
