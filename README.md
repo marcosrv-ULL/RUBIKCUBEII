@@ -2,6 +2,7 @@
 Cubo de Rubik interactivo
 
 ## Cuestiones importantes para el uso:
+Se recomienda el uso de gafas de realidad virtual para lograr asi una experiencia más inmersiva.
 
 ## Hitos de programación logrados relacionándolos con los contenidos que se han impartido:
 **Intefaces multimodales:** capturar la posición del GPS.
