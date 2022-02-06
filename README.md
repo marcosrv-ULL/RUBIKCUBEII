@@ -50,4 +50,9 @@ Francesco:
 ## Ejecución:
 https://user-images.githubusercontent.com/72877378/152649595-94caef77-82a5-4dd3-bbda-ea6c1bfcef40.mp4
 
+Como podemos ver en el video, el juego cuenta con múltiple funcionalidades. Contamos con un botón que permite mezclar y mover de forma aleatoria todas las caras del cubo para poder resolverlo. Además tenemos 2 botones que nos permite Iniciar/Parar el tiempo y restablecer el cronómetro. 
+El usuario también puede girar de forma completa el cubo mediante la cruz rosa y negra que se encuentra al lado del cubo y, de esta forma, poder trabajar convenientemente sobre la cara inferior.
+Por último tenemos el mapa del cubo de rubik, el cual nos permite ver de forma amplia y en un solo vistazo el estado del mismo.
+
+
 ![gps](https://user-images.githubusercontent.com/72877378/152649984-a6a39249-d66d-4f6e-a6e1-844af00ccde0.gif)
