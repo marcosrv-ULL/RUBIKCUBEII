@@ -5,7 +5,10 @@ Cubo de Rubik interactivo
 
 ## Hitos de programación logrados relacionándolos con los contenidos que se han impartido:
 **Intefaces multimodales:** capturar la posición del GPS.
-
+**Gestión de Eventos:** Uso de lo visto en delegados y eventos para llevar los eventos
+**Aplicación de lógica de transforms:** Uso de lo visto en el tema de modificar transform para llevar a cabo movimientos
+**Elementos de la interfaz:** Integración de elementos que hacen más clara la interfaz, como por ejemplo usar raycasting para generar el mapa del cubo e integrarlo dentro de la casa
+**Uso de los elementos de VR:** Integrar controles para un uso correcto en un espacio de realidad Virtual con las carboard.
 ## Aspectos que destacarías en la aplicación.
 
 ## Organización de tareas:
